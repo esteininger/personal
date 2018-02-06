@@ -17,10 +17,10 @@
 ## Philosophy/Self
 
 - [X] Tao of Seneca by Tim Ferriss
-- [ ] Man's Search for Meaning by Victor Frankel
+- [X] Man's Search for Meaning by Victor Frankel
 - [X] The Obstacle is the Way by Ryan Holiday
 - [X] The Subtle Art of Not Giving a Fuck by Marc Manson
-- [ ] Meditations by Marcus Aurelius
+- [X] Meditations by Marcus Aurelius
 - [ ] Ego is the Enemy by Ryan Holiday
 - [ ] Grit by Angela Duckworth
 - [ ] The Meaning of Human Existence by Edward Wilson
@@ -32,7 +32,7 @@
 - [X] The Iliad
 - [X] Me Talk Pretty One Day by David Sedaris
 - [X] Cat's Cradle by Kurt Vonnegut 
-- [ ] Ten Poems to Change your Life by Roger Housden 
+- [X] Ten Poems to Change your Life by Roger Housden 
 - [ ] Brave New World by Aldous Huxley
 
 ## Biography
