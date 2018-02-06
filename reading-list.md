@@ -6,6 +6,7 @@
 - [X] How to Win Friends and Influence People by Dale Carnegie 
 - [X] 48 Laws of Power by Robert Greene
 - [X] Zero to One by Peter Thiel
+- [X] Four Hour Work Week by Tim Ferriss
 
 ## Evolution/Biology
 
@@ -25,6 +26,13 @@
 - [ ] Grit by Angela Duckworth
 - [ ] The Meaning of Human Existence by Edward Wilson
 - [ ] Art of War by Sun Tzu
+- [ ] Tribe of Mentors by Tim Ferriss
+- [ ] When by Daniel Pink
+- [X] Drive by Daniel Pink
+
+## Society
+
+- [X] Tribe by Sebastian Junger
 
 ## Fiction
 
