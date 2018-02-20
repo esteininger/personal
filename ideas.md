@@ -85,3 +85,9 @@
 ### Lab Grown Diamond Store
 
 - Looking for a diamond ring but don't like the idea of blood diamonds? Use MoralGem.com to find a guilt free lab grown diamond. For every purchase, a donation goes to a blood diamond-torn family. (MoralGem.com)
+
+### Supplement Sharing Tool
+
+- Learn about what supplements your friends that have similar goals/body types take
+
+- Looking for a diamond ring but don't like the idea of blood diamonds? Use MoralGem.com to find a guilt free lab grown diamond. For every purchase, a donation goes to a blood diamond-torn family. (MoralGem.com)
