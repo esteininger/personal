@@ -7,10 +7,15 @@
 - [X] 48 Laws of Power by Robert Greene
 - [X] Zero to One by Peter Thiel
 - [X] Four Hour Work Week by Tim Ferriss
+- [ ] Principles by Ray Dalio
+- [ ] Influence: The Psychology of Persuasion by Robert B. Cialdini
+- [X] Getting to Yes by Roger Fisher
+- [ ] The Innvoator's Dilemma by Clayton Christensen
+- [ ] Getting Things Done by David Allen
 
 ## Evolution/Biology
 
-- [ ] Sapiens by Yuval Noah Harari
+- [X] Sapiens by Yuval Noah Harari
 - [ ] How Not to Die by Michael Gregor, M.D
 - [ ] Social Theory by Joas and Knobl
 - [X] Blink by Malcom Gladwell
@@ -24,11 +29,17 @@
 - [X] Meditations by Marcus Aurelius
 - [ ] Ego is the Enemy by Ryan Holiday
 - [ ] Grit by Angela Duckworth
+- [ ] Thinking, Fast and Slow - Daniel Kahneman
 - [ ] The Meaning of Human Existence by Edward Wilson
 - [ ] Art of War by Sun Tzu
 - [ ] Tribe of Mentors by Tim Ferriss
-- [ ] When by Daniel Pink
+- [ ] When? by Daniel Pink
 - [X] Drive by Daniel Pink
+- [ ] Start With Why by Simon Sinek
+- [ ] Essentialism The Disciplined Pursuit of Less by Greg McKeown
+- [ ] 12 Rules for Life An Antidote to Chaos by Jordan B. Peterson
+- [ ] The Five Elements of Effective Thinking by Edward Burger
+- [ ] The Checklist Manifesto. How to Get Things Right Gawande Atul
 
 ## Society
 
